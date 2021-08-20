@@ -1,0 +1,27 @@
+.header__lang-link {
+  margin: 12px 0 4px;
+  font-size: 24px;
+  line-height: 1.2;
+  text-decoration: none;
+  font-weight: 400;
+  color: #fff;
+}
+
+.header__lang-link:nth-of-type(2) {
+  margin-left: 18px;
+}
+
+@media screen and (max-width: 432px) {
+  .header__lang-link {
+    font-size: calc(100vw / 18);
+    line-height: 1.2;
+    margin: 10px 0 6px;
+  }
+}
+
+@media screen and (max-width: 324px) {
+  .header__lang-link {
+    font-size: 18px;
+  }
+}
+

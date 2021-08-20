@@ -1,0 +1,11 @@
+.root__page {
+  max-width: 1184px;
+  min-width: 320px;
+  margin: 0 auto;
+  position: relative;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  color: #fff;
+  min-height: 100vh;
+  box-sizing: border-box;
+  border: red 1px dashed;
+}

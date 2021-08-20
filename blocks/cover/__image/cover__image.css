@@ -1,0 +1,9 @@
+.cover__image {
+  max-width: 100%;
+  min-width: 320px;
+  object-fit: cover;
+  display: block;
+  min-height: 200px;
+  max-height: 740px;
+  height: calc(100vw / 1.6);
+}
