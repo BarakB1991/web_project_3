@@ -1,20 +1,22 @@
 # Project 3: From Portland to Portland
 
-### Overview
-* Intro
-* Figma
-* Images
+A project made during the Practicum100 Web Dev course. 
 
-**Intro**
+This is a project about traveling across the US.
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+## Table of content
+* Description and functions
+* Technologies and techniques used
 
-**Figma**
+### Description and functions
 
-* [Link to the project on Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1)
+The webpage contains photos, some historic, some are of beautiful views. also some information of places to see and where you can stay.
 
-**Images**
+### Technologies and techniques used
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+Used BEM methodology for writing code, so to keep the code tidy and readable. This is a responsive sites for highly highly used displays.\
+HTML and CSS was used for this project. I used various different attributes to perform visual spectacles, such as: calc functions, pseudo classes and media-queries.
 
-Good luck and have fun!
+
+* [Link to the project on Figma](https://barakb1991.github.io/web_project_3/)
+

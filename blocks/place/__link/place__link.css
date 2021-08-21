@@ -11,4 +11,11 @@
 
 .place__link:hover {
   opacity: 0.8;
+  cursor: pointer;
+}
+
+@media (hover: none) {
+  .place__link:hover {
+    opacity: 1;
+  }
 }

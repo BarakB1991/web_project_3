@@ -2,7 +2,19 @@
     display: flex;
     min-width: 100%;
     margin: 0 auto 24px;
-    display: flex;
     justify-content: space-between;
     padding-top: 92px;
+}
+
+@media screen and (max-width: 780px) {
+  .footer {
+    padding-top: 88px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .footer {
+    padding-top: 64px;
+    flex-direction: column;
+  }
 }
