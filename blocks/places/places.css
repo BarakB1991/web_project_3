@@ -5,4 +5,14 @@
   margin-bottom: 92px;
 }
 
+@media screen and (max-width: 780px) {
+  .places {
+    margin-bottom: 64px;
+  }
+}
 
+@media screen and (max-width: 560px) {
+  .places {
+    align-items: normal;
+  }
+}

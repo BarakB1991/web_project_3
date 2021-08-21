@@ -63,7 +63,7 @@
           <img src="./images/photo-grid-wires.jpg" alt="birds on a powerchord" class="photo-grid__item" />
           <img src="./images/photo-grid-road.jpg" alt="A desert road" class="photo-grid__item" />
         </section>
-        <section class="places narrower">
+        <section class="places">
           <div class="place">
             <h2 class="place__title">Maine</h2>
             <div class="place__website">
@@ -175,17 +175,18 @@
         </section>
         <section class="cover">
           <img src="./images/cover-route-66.jpg" alt="A photo of the historic Route 66" class="cover__image" />
-          <div class="cover__overlay">
+          <a href="https://www.nps.gov/subjects/travelroute66/index.htm" class="cover__overlay" target="_blank">
+            <!--changed original URL: "https://www.nps.gov/nr/travel/route66/maps66.html" because it redirected to the one above-->
             <h2 class="cover__title">Historic Route 66</h2>
             <p class="cover__subtitle">The Main Street of America from Santa Monica, Cal. to Chicago, Ill.</p>
-          </div>
+          </a>
         </section>
       </main>
       <footer class="footer">
         <ul class="footer__link-list">
-          <li><a target="_blank" href="" class="footer__link">Maps</a></li>
-          <li><a target="_blank" href="" class="footer__link">Weather</a></li>
-          <li><a target="_blank" href="" class="footer__link">Calendar</a></li>
+          <li class="footer__list-item"><a target="_blank" href="https://yandex.com/maps" class="footer__link">Maps</a></li>
+          <li class="footer__list-item"><a target="_blank" href="https://yandex.com/weather/moscow" class="footer__link">Weather</a></li>
+          <li class="footer__list-item"><a target="_blank" href="https://calendar.yandex.ru" class="footer__link">Calendar</a></li>
         </ul>
         <p class="footer__copyright">© 2021. Barak Barzilay</p>
       </footer>
