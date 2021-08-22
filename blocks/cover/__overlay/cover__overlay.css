@@ -3,11 +3,7 @@
   width: 100%;
   z-index: 1;
   grid-column: 1 / -1;
-<<<<<<< HEAD
   grid-row: 1 / auto;
-=======
-  grid-row: 1 / auto;
->>>>>>> 9a10f0918017872b25a47feb1d70a1b93937ca70
   text-decoration: none;
   transition: 1s ease-out background-color;
   display: flex;
