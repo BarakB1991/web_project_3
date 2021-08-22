@@ -1,6 +1,7 @@
 .cover {
-    display: flex;
-    justify-content: center;
-    max-width: 100%;
-    position: relative;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  height: 100%;
+  width: 100%;
+  place-items: center;
 }
