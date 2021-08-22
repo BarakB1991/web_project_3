@@ -18,5 +18,5 @@ Used BEM methodology for writing code, so to keep the code tidy and readable. Th
 HTML and CSS was used for this project. I used various different attributes to perform visual spectacles, such as: calc functions, pseudo classes and media-queries.
 
 
-* [Link to the project on Figma](https://barakb1991.github.io/web_project_3/)
+* [Link to the project hosted on Github Pages](https://barakb1991.github.io/web_project_3/)
 
