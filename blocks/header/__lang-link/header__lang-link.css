@@ -1,5 +1,4 @@
 .header__lang-link {
-  margin: 12px 0 4px;
   font-size: 24px;
   line-height: 1.2;
   text-decoration: none;
@@ -14,7 +13,6 @@
 @media screen and (max-width: 432px) {
   .header__lang-link {
     font-size: calc(100vw / 18);
-    line-height: 1.2;
     margin: 10px 0 6px;
   }
 }

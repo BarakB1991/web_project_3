@@ -7,19 +7,23 @@
   line-height: 1.2;
 }
 
-
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1050px) {
   .lead__subtitle {
-    max-width: 620px;
-    min-width: 288px;
-    width: calc(100% / 1.2);
-    font-size: calc(100vw / 25);
-    line-height: 1.2;
+    margin: 32px auto 56px;
   }
 }
 
-@media screen and (max-width: 410px) {
+@media screen and (max-width: 730px) {
+  .lead__subtitle {
+    max-width: 356px;
+    min-width: 288px;
+    font-size: calc(100vw / 25);
+  }
+}
+
+@media screen and (max-width: 500px) {
   .lead__subtitle { 
     font-size: 16px;
+    margin: 16px auto 40px;
   }
 }

@@ -15,18 +15,19 @@
   }
 }
 
-@media screen and (max-width: 793px) {
+@media screen and (max-width: 780px) {
   .photo-grid {
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 16px;
-    margin: 0 16px;
+    margin: 0 24px;
+    padding: 88px 0;
   }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 550px) {
   .photo-grid {
     grid-template-columns: 1fr;
     grid-gap: 12px;
-    margin: 0 16px;
+    padding: 64px 0;
   }
 }

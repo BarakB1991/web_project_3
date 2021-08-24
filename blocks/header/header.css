@@ -4,3 +4,10 @@
   height: 44px;
   margin-top: 34px;
 }
+
+@media screen and (max-width: 370px){
+  .header {
+  margin-top: 20px;
+}
+
+}
