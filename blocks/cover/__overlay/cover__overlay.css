@@ -3,7 +3,7 @@
   width: 100%;
   z-index: 1;
   grid-column: 1 / -1;
-  grid-row: 1 / auto;
+  grid-row: 1 / -1;
   text-decoration: none;
   transition: 1s ease-out background-color;
   display: flex;

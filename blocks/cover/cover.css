@@ -1,7 +1,7 @@
 .cover {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  height: 100%;
+  grid-template-rows: repeat(5, 1fr);
   width: 100%;
-  place-items: center;
+  place-items: stretch;
 }
