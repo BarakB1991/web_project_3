@@ -1,11 +1,11 @@
 .logo {
-    background-image: url(../../images/logo.svg);
-    max-width: 190px;
-    min-width: 156px;
-    min-height: 44px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    align-self: flex-end;
-    width: calc(100% / 2);
+  background-image: url(../../images/logo.svg);
+  max-width: 190px;
+  min-width: 156px;
+  min-height: 44px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  align-self: flex-end;
+  width: calc(100% / 2);
 }
-
