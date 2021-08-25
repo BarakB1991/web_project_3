@@ -2,6 +2,7 @@
   max-width: 100%;
   min-width: 320px;
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center;
   background-position-y: 10px;
   display: block;
