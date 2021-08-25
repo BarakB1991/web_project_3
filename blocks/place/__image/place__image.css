@@ -1,6 +1,4 @@
 .place__image {
   overflow: hidden;
   width: 100%;
-  background-repeat: no-repeat;
-  background-size: contain;
 }
