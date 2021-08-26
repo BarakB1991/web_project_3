@@ -1,21 +1,21 @@
-.narrower{
+.narrower {
   margin: 0 100px;
 }
 
 @media screen and (max-width: 1024px) {
-  .narrower{
+  .narrower {
     margin: 0 48px;
   }
 }
 
 @media screen and (max-width: 793px) {
-  .narrower{
+  .narrower {
     margin: 0 24px;
   }
 }
 
 @media screen and (max-width: 550px) {
-  .narrower{
+  .narrower {
     margin: 0 16px;
   }
 }

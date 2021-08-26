@@ -25,7 +25,7 @@
     grid-column-gap: 28px;
     margin-bottom: 73px;
     margin: 0 24px 73px;
-        grid-template-columns: minmax(280px, 340px) minmax(290px, 352px);
+    grid-template-columns: minmax(280px, 340px) minmax(290px, 352px);
   }
 }
 
@@ -34,6 +34,6 @@
     grid-template-columns: repeat(auto-fit, minmax(288px, 100vw));
     grid-row-gap: 30px;
     grid-column-gap: 100px;
-     margin: 0 0 48px;
+    margin: 0 0 48px;
   }
 }

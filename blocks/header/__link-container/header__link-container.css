@@ -1,4 +1,6 @@
 .header__link-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   justify-self: flex-end;
   list-style: none;

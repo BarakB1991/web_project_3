@@ -5,10 +5,21 @@
   grid-column: 1 / -1;
   grid-row: 1 / -1;
   text-decoration: none;
+  -webkit-transition: 1s ease-out background-color;
+  -o-transition: 1s ease-out background-color;
   transition: 1s ease-out background-color;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
   flex-direction: column;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
   justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center;
   background-color: rgba(42, 44, 47, 0.3);
 }
